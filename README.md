@@ -11,5 +11,6 @@ Hopefully someday in the future you're reading this as you're cloning something 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1else-bot&theme=algolia&layout=algolia)](https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m?si=g_DR7Ag9SgqhswXyLt7BmQ&dl_branch=1)
 
+The fact that HTML is on top makes you wonder what the hell I have on here lol, who knows? maybe I'll take github seriously someday and you can find other stuff...
 
 Text me on insta @jessenthebenezer
