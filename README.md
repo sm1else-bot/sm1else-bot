@@ -7,9 +7,9 @@ Starting off, I'm just gonna upload documentation and whatever code I have left 
 
 Hopefully someday in the future you're reading this as you're cloning something interesting to work with/use/learn from!
 
-![Noob Github Stats](https://github-readme-stats.vercel.app/api?username=sm1else-bot&show_icons=true&theme=midnight-purple)
+![Noob Github Stats](https://github-readme-stats.vercel.app/api?username=sm1else-bot&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1else-bot&theme=midnight-purple&layout=compact)](https://github.com/sm1else-bot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1else-bot&theme=synthwave&layout=compact)](https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m?si=g_DR7Ag9SgqhswXyLt7BmQ&dl_branch=1)
 
 
 Text me on insta @jessenthebenezer
