@@ -7,4 +7,9 @@ Starting off, I'm just gonna upload documentation and whatever code I have left 
 
 Hopefully someday in the future you're reading this as you're cloning something interesting to work with/use/learn from!
 
+![Noob Github Stats](https://github-readme-stats.vercel.app/api?username=sm1else-bot&show_icons=true&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1else-bot&theme=midnight-purple&layout=compact)](https://github.com/sm1else-bot/github-readme-stats)
+
+
 Text me on insta @jessenthebenezer
