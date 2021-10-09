@@ -9,7 +9,7 @@ Hopefully someday in the future you're reading this as you're cloning something 
 
 ![Noob Github Stats](https://github-readme-stats.vercel.app/api?username=sm1else-bot&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1else-bot&theme=tokyonightc&layout=compact)](https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m?si=g_DR7Ag9SgqhswXyLt7BmQ&dl_branch=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1else-bot&theme=cobalt&layout=compact)](https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m?si=g_DR7Ag9SgqhswXyLt7BmQ&dl_branch=1)
 
 
 Text me on insta @jessenthebenezer
