@@ -7,8 +7,8 @@
 ### 🧩 About Me
 - **NYU Computer Science MS** 🎓 | **VIT Chennai Alum**
 - Doing *Data Science* with a focus on **Healthcare**, **Entertainment**, **Mobility**, and **Human-Centered AI**
-- Experimenter by heart — my GitHub is a playground more than a portfolio  
-- Building (and quitting) startups since I was 15 — currently working on a **stealth project**
+- Experimenter by heart - my GitHub is a playground more than a portfolio  
+- Building (and quitting) startups since I was 15 // currently working on a **stealth project**
 - On the side: music producer ([Someone Else](https://www.jessenth.com)) and builder of weird web/music tools
 
 ---
