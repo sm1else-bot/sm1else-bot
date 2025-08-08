@@ -45,9 +45,8 @@ I actively **avoided ML** in uni because of imposter syndrome… then landed my 
 
 ---
 
-### 🎮 Easter Egg
 <details>
-<summary>Click to see my vibe</summary>
+<summary>Click Me for a cringy code block</summary>
 
 ```
 while (alive) {
