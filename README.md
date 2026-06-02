@@ -24,7 +24,16 @@ emergent behavior in drone npcs
 
 ---
 
-**langs**   `python` `c++` `rust` `typescript` `go` 
+**langs**
+
+![python](https://img.shields.io/badge/python-1e1e2e?style=flat-square&logo=python&logoColor=3776ab)
+![c++](https://img.shields.io/badge/c++-1e1e2e?style=flat-square&logo=cplusplus&logoColor=00599c)
+![rust](https://img.shields.io/badge/rust-1e1e2e?style=flat-square&logo=rust&logoColor=ce422b)
+![typescript](https://img.shields.io/badge/typescript-1e1e2e?style=flat-square&logo=typescript&logoColor=3178c6)
+![go](https://img.shields.io/badge/go-1e1e2e?style=flat-square&logo=go&logoColor=00add8)
+![unity](https://img.shields.io/badge/unity-1e1e2e?style=flat-square&logo=unity&logoColor=ffffff)
+![pytorch](https://img.shields.io/badge/pytorch-1e1e2e?style=flat-square&logo=pytorch&logoColor=ee4c2c)
+![webgl](https://img.shields.io/badge/webgl-1e1e2e?style=flat-square&logo=webgl&logoColor=990000)
 
 ---
 
