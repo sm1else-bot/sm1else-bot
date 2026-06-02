@@ -1,6 +1,6 @@
 ### jessenth ebenezer
 
-ms cs @ nyu tandon  ·  researcher, vida lab  ·  music producer (someone else, cryptic daylight, duskryn) 
+ms cs @ nyu tandon &nbsp;·&nbsp; researcher, vida lab &nbsp;·&nbsp; [additional work inc](https://additionalwork.quest)
 
 ---
 
