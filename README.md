@@ -37,4 +37,8 @@ emergent behavior in drone npcs
 
 ---
 
+![stats](https://github-readme-stats.vercel.app/api?username=sm1else-bot&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888&icon_color=ffffff&hide=issues)
+
+---
+
 [jessenth.com](https://www.jessenth.com)  ·  [project-interlude](https://github.com/project-interlude)  ·  [someone else](https://www.jessenth.com/music)
